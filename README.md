@@ -1,2 +1,2 @@
 # Patent-Status-Information
-Using public USPTO and foreign patent office data to create tools useful for patent attorneys
+This iteration of the program is a webscraper that accesses public USPTO and foreign patent office data so patent attorneys, and other interested persons, can quickly identify key status information concerning a particular patent. It provides basic bibliographic information, the status of the patent, such as whether it has expired and when maintenance fees are due, its US and foreign patent family, any patent term adjustment or extension, and its expiration date.
